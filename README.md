@@ -36,7 +36,9 @@ Run the cells in the jupyter notebook in order to fine-tune and run inference on
 The parser code has been borrowed from [this repo](https://github.com/rsljr/edgarParser/tree/master?tab=readme-ov-file).
 
 
+## Improvements
 
+Currently, I'm working on building a UI for having a conversation like chat-gpt. Alternately, I might use the insights to plot some graphs and use them in the UI. Any ideas or suggestions are always appreciated :). 
 
 ## Useful Links
 
