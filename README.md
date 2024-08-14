@@ -22,6 +22,12 @@ huggingface-cli login
 
 Refer to the [huggingface website](https://huggingface.co/docs/huggingface_hub/en/guides/cli) for authentication and generating access-tokens. 
 
+To get sec 10-filings run the following script 
+
+```bash
+python crawler.py --name Your-name --ticker company-ticker --email youremail@example.com --start start-year --end end-year
+
+```
 
 ## Run Locally
 
