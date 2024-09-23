@@ -1,5 +1,5 @@
 
-# Create you own Financial Analyst using MLX, Llama3 and Langchain
+# Create your own Financial Analyst using MLX, Llama3 and Langchain
 
 This project involves fine-tuning the llama 3 8B Instruct model on SEC 10k filing reports to generate financial insights.
 
